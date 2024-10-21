@@ -1,0 +1,27 @@
+1. Node initialization
+2. package.json
+3. Express JS backend with packages
+    - npm i Express
+    - npm i cookie-parser
+    - npm i cors
+    - npm i express-rate-limit
+    - npm i helmet
+    - npm i hpp
+    - npm i jsonwebtoken
+    - npm i mongoose
+    - npm i nodemailer
+    - npm install -g nodemon
+
+4. File folder structure
+    - app
+        - config
+        - controllers
+        - middlewares
+        - models
+        - utiltiy
+    - routes
+        - api routing
+    - storage
+
+5. app.js
+    - import applications all packages
